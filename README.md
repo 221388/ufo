@@ -1,2 +1,0 @@
-# ufo
-Created with CodeSandbox
